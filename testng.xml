@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <groups>
+    <run>
+      <include name="Title"/>
+      <exclude name="logo"/>
+  </run>
+</groups>
+    <classes>
+      <!-- <class name="TestNGPack_BeforeAndAfterTest.TestCase1"/> -->
+      <!-- <class name="TestNGPack_BeforeAndAfterTest.TestCase2"/> -->
+      <class name="TestNGPackage.GroupAnnotation"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,28 @@
+2020-02-27 21:17:08,764 [main] INFO Log4jdemo - setup method is started
+2020-02-27 21:17:08,767 [main] INFO Log4jdemo - setup method in progress
+2020-02-27 21:17:08,777 [main] INFO Log4jdemo - login is started
+2020-02-27 21:17:08,778 [main] INFO Log4jdemo - login is progress
+2020-02-27 21:17:08,778 [main] INFO Log4jdemo - login is completed
+2020-02-27 21:17:08,778 [main] INFO Log4jdemo - login is passed
+2020-02-27 21:17:08,783 [main] INFO Log4jdemo - logout is completed
+2020-02-27 21:19:36,116 [main] INFO Log4jdemo - setup method is started
+2020-02-27 21:19:36,120 [main] INFO Log4jdemo - setup method in progress
+2020-02-27 21:19:36,130 [main] INFO Log4jdemo - login is started
+2020-02-27 21:19:36,130 [main] INFO Log4jdemo - login is progress
+2020-02-27 21:19:36,131 [main] INFO Log4jdemo - login is completed
+2020-02-27 21:19:36,131 [main] INFO Log4jdemo - login is passed
+2020-02-27 21:19:36,136 [main] INFO Log4jdemo - logout is completed
+2020-03-11 21:48:03,185 [main] INFO Log4jdemo - setup method is started
+2020-03-11 21:48:03,202 [main] INFO Log4jdemo - setup method in progress
+2020-03-11 21:48:03,209 [main] INFO Log4jdemo - login is started
+2020-03-11 21:48:03,209 [main] INFO Log4jdemo - login is progress
+2020-03-11 21:48:03,210 [main] INFO Log4jdemo - login is completed
+2020-03-11 21:48:03,210 [main] INFO Log4jdemo - login is passed
+2020-03-11 21:48:03,214 [main] INFO Log4jdemo - logout is completed
+2020-03-12 00:00:37,765 [main] INFO Log4jdemo - setup method is started
+2020-03-12 00:00:37,768 [main] INFO Log4jdemo - setup method in progress
+2020-03-12 00:00:37,777 [main] INFO Log4jdemo - login is started
+2020-03-12 00:00:37,778 [main] INFO Log4jdemo - login is progress
+2020-03-12 00:00:37,778 [main] INFO Log4jdemo - login is completed
+2020-03-12 00:00:37,779 [main] INFO Log4jdemo - login is passed
+2020-03-12 00:00:37,783 [main] INFO Log4jdemo - logout is completed

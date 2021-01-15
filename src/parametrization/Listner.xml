@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="testingListnerSuite">
+<listeners>
+    <listener class-name="parametrization.Listeners"/>
+</listeners>
+
+
+  <test name="logintest">
+     <classes>
+         <class name="parametrization.LoginTest"/>
+      </classes>
+  </test>
+
+</suite>
